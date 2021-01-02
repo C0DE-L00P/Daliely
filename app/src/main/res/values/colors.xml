@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="site_color">#0085C6</color>
+    <color name="scroll_color">#0199E3</color>
+    <color name="back_color">#F7F7F7</color>
+    <color name="logo_back_color">#F5F5F5</color>
+
+    <!-- Swipe Colors-->
+    <color name="blue">#0099CC</color>
+    <color name="purple">#9933CC</color>
+    <color name="green">#669900</color>
+    <color name="orange">#FF8800</color>
+</resources>
